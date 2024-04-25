@@ -7,4 +7,11 @@ Este es un espacio abierto, todas y todos son bienvenidos.
 2024-04-13
 Se convoca a un hackaton del agua contaminada en BJ
 
+
+2024-04-22
+QGIS: project 
+
+2024-04-22
+censo2020.do 
+
 <!--  -->
