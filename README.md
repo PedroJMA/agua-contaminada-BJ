@@ -4,6 +4,11 @@
 A partir de datos públicos, el objetivo de este espacio es dimensionar la población afectada por la contaminación del agua en Alcaldía Benito Juárez, CDMX.
 Este es un espacio abierto, todas y todos son bienvenidos. 
 
+2024-05-12
+
+Estrategia de datos: 
+1. 
+
 
 2024-05-05
 unidad de observación: colonia Sacmex 
